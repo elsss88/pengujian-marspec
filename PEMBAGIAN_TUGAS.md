@@ -13,7 +13,7 @@ sistem. Dengan begitu bebannya setara, dan semua orang mempraktikkan kedua tekni
 | 3 | Simulator kanal laut | `MaritimeChannel.apply` | `test_3_kanal_laut.py` | [Anggota 3] |
 | 4 | Rugi & pemuat data | `moe_balance_loss`, `equalizer_aux_loss`, `scan_indices`, `load_X_inmemory` | `test_4_rugi_data.py` | [Anggota 4] |
 | 5 | Evaluasi & CLI | `cocokkan_config`, `mode_oracle_latih`, `per_snr_table`, penjaga argumen `main()` | `test_5_evaluasi_cli.py` | [Anggota 5] |
-| 6 | Ketidakpastian + demo web | `marspec_ketidakpastian.py` + `demo_web/` (manual) | `test_6_ketidakpastian.py` + `docs/uji_demo_web.md` | [Anggota 6] |
+| 6 | Ketidakpastian + demo web | `marspec_ketidakpastian.py` + `demo_web/` (manual) | `test_6_ketidakpastian.py` + `docs/uji_demo_web.md` | Hegira M.K |
 
 Catatan: **pembuat MARSPEC sebaiknya tidak menguji bagian inti (1–5).** Penguji
 yang menulis kodenya sendiri cenderung menguji apa yang ia *maksudkan*, bukan apa
